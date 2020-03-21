@@ -1,5 +1,5 @@
 <template>
-  
+  <div>技能列表</div>
 </template>
 
 <script>
